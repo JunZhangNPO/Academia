@@ -1,4 +1,4 @@
-# Understand Administrative Burden
+# Understand Administrative Burden, NY State, June, 2024
 
 I lost my SSN and needed to replace it. Although I have experience in applying for an SSN, I still felt an administrative burden during this process.  
 
