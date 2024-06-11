@@ -40,3 +40,7 @@ Use this software to conduct basic analysis on audio data.
 8. **Intensity**
    - Click: `Intensity` -> `Get intensity` to get the average intensity.
    - Click: `Intensity` -> `Intensity listing` to get detailed intensity at each time point.
+
+
+**Resources in Chinese**
+如何使用Praat https://zhuanlan.zhihu.com/p/654886660
