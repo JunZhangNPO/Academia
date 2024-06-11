@@ -1,6 +1,10 @@
-### Goal
+### Introduction 
 
-Use this software to conduct basic analysis on audio data.
+- Use this software to conduct basic analysis on audio data.
+- Praat is a speech synthesis program that estimates the fundamental frequency by dividing the autocorrelation of a windowed signal by
+the autocorrelation of the window itself (Dietrich, Enos, & Sen, 2019).
+- In order to analyze a speech signal Praat has to “cut up the sound into small segments and analyse each interval separately
+and pretend it has constant characteristics” (Weenink 2012, 21).
 
 ### Procedure
 
