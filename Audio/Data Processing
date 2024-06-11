@@ -1,0 +1,8 @@
+**Speed Rate**
+- get time duration, transform into seconds 
+- remove punctuation
+- calculate the number of words 
+- calculate how many words per second 
+
+** Extract Text**
+use ffmpeg in R 
