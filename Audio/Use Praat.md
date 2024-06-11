@@ -43,4 +43,4 @@ Use this software to conduct basic analysis on audio data.
 
 
 **Resources in Chinese**
-如何使用Praat https://zhuanlan.zhihu.com/p/654886660
+ - 如何使用Praat https://zhuanlan.zhihu.com/p/654886660
