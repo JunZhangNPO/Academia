@@ -1,3 +1,9 @@
+**Packages**
+R Communication
+https://cran.r-project.org/web/packages/communication/index.html
+Feature Extraction and Model Estimation for Audio of Human Speech
+
+
 **Agencies** 
 - The National Center for Voice & Speech 
 - https://ncvs.org/our-mission/
