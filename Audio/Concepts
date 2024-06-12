@@ -1,16 +1,22 @@
-
-
-
 **Vocal Characteristics**
+auditory features
+
 Picth (fo, fundamental frequency)  T = 1/f
 Loudness (DB)
 Envelope 
-waveform 
+waveform: univariate high-frequency time series of pressure measurements (Knox & Lucas, 2021).
 Resonance (Df, in Hz)
 
 
 **Analysis** 
 Utterance
+Zero crossing rate (ZCR): how often the waveform crosses zero (neutral pressure)
 
 **Method**
 Ac: autocorrelation 
+
+
+**Data**
+auditory data
+
+
