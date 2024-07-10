@@ -19,3 +19,10 @@ Tourists can donate money immediately
 But it could be better if there is an online channel for donation, becasue not many people have enough cash 
 
 2024.06
+
+
+
+3. No information about the organization
+![image](https://github.com/JunZhangNPO/Academia/assets/103551488/bdad9a6e-b39d-4cc3-8696-5125eebaa125)
+https://x.com/daniel_mcdowell/status/1811116183862821128
+
