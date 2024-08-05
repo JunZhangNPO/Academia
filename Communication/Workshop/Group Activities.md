@@ -8,3 +8,12 @@ To save time, this mini-conference can be held at noon and run in parallel sessi
 
 
 Tidy Tuesday is good format. However, it is mainly a lecture while lacks interaction among students. 
+
+
+All participants, including previous sessions, are in the same slack channel, mkaing it difficult to interact with each other. 
+
+It would be better if there is a link that could show the bio of each participant, which can help us connect with participants who share similar interests. 
+
+Check the technology before the class. There are some technological issues with classrooms. 
+
+Include more new methods and expand them to non-political science field. I feel the program is really political science focused while not many students and instructors from other disciplines. 
