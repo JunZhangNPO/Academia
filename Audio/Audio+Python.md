@@ -7,9 +7,12 @@ tensorflow
 
 
 * Audio relevant Packages
+pydub  //segment audio into pieces
+speechrecognition // audio to text 
 Librosa  //ffmpeg--add it into environmental variable
 pyaudio  //cross platform audio output/input stream library
 wave //
+Parselmouth // https://parselmouth.readthedocs.io/en/stable/   Then you can use Praat in Python. 
 
 * librosa.load // 
 offset & duration: get a part of the audio 
@@ -67,5 +70,11 @@ sample rate
 one-hot-coding // convert the integer encoded labels to a one-hot vector
 Con1vd: one dimension CNN
 model.compile 
+
+
+
+Tools 
+ChatGPT can help with transfer audio-to-text
+https://doc.chatgptcn.com/zh/guides/speech-to-text
 call back, early stopping 
 random 
