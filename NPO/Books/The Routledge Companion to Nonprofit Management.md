@@ -14,3 +14,5 @@ beneficiaries/clients
 Governance is by trustees or a voluntary board of directors (Chad et al. 2013).  # This is what it is different from governments. 
 
 
+Chapter 34 Hybridity: Origins and Effects 
+
