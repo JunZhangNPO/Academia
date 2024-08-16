@@ -1,4 +1,5 @@
 Chapter 25 Nonprofit Marketing and Branding 
+
 marketing is defined as "serving human wants and needs sensitively" (Kotler & Levy, 1969).
 the application of market theories and ideas are appropraite in the nonprofit field.
 nonprofits need to consider two constituencies: service beneficiaries and funders; two different markets: 
@@ -51,4 +52,18 @@ Side note: imagine, the surface to interact with the environment changes. How do
 which aspect? Different kinds of organizations. Our job is to open the black box. 
 who is leading the organization to hybridity and why? 
 
+
+Chapter 35 New Legal Forms for Hybrid Organizations 
+
+Concepts
+double-bottom-line organizations
+do good & make money 
+businesses/cooperatives
+
+summary 
+a normative study on the importance of legal forms for hybrid organizations 
+
+Questions
+Are we viewing hybrid organizations from the perspective of nonprofit organization? 
+What's business's perspective for hybrid organizations? 
 
