@@ -1,3 +1,35 @@
+Chapter 1 Overview 
+
+Distribution criteria: solidarity
+
+Distinctive function: service provider; vanguard; value guardian; advocacy
+
+
+Chapter Leadership 
+
+from mission-driven to a resource-driven
+adopt business-sector management method 
+balance organizational values with business performance 
+employee orientation & transformational leadership 
+
+managerialist leadership structures
+
+
+Chapter Strategic Management 
+
+strategic planning -- more business-like 
+corporate manaement knowledge and practices
+centralization and professionalization 
+managerialism
+
+organizational rationality 
+
+Strategy helps? 
+
+Where do strategies come from? daily acitivies or import? 
+
+contribute to legitimacy or performance? (the role of fundraising) 
+
 Chapter 13 Advocacy and Lobbying 
 
 Common nonprofit advocacy activities include, but are not limited to, voter registration drives, 
@@ -17,6 +49,7 @@ The relationship between government funding and advocacy
 tactics-how; targets-whom
 limited engagement is strikes and demonstrations 
 collaboration, coalition and advocacy 
+political redistribution 
 
 Question?
 Is advocacy is a good thing for nonprofits? Good for whom? 
