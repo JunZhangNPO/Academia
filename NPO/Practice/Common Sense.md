@@ -13,3 +13,5 @@ https://usafacts.org/articles/how-many-nonprofits-are-there-in-the-us/
 
 ![image](https://github.com/user-attachments/assets/ff9a1a9c-feae-463a-9fe0-d0977bad5c96)
 https://www.statista.com/statistics/238289/us-charities-with-the-highest-total-revenue/
+
+IRS Form 990/990EZ for annual expenses report
