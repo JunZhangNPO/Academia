@@ -13,3 +13,29 @@ National Center for Charitable Statistics data
 Nonprofit Open Data Collective
 
 
+Exempt Organizations Business Master File
+
+- https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf
+- CVS file NPO data by region
+- Mainly about finance 
+- 2174 INGO
+- 118, 492 NGOs in NY
+
+NPO Classifier 
+- https://github.com/ma-ji/npo_classifier
+- A machine-learning classifier that reliably automates the coding process using the National Taxonomy of Exempt Entities as a schema and remapped the U.S. nonprofit sector. 
+
+Philanthropy Classification System
+https://taxonomy.candid.org/
+
+
+NTEE Major Category Grouping Definitions: ntmaj10, ntmaj12, and ntmaj5
+http://exploresusquehanna.org/knowledgebase/detail.php?linkID=4323&category=40023&xrefID=7275
+
+
+NTEE A-Z catgeory
+https://urbaninstitute.github.io/nccs-legacy/ntee/ntee-history.html
+
+
+
+
