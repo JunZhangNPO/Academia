@@ -1,152 +1,139 @@
-Chapter 1 Overview 
+# Chapter 1 Overview
 
-Distribution criteria: solidarity
+**Distribution criteria:** Solidarity
 
-Distinctive function: service provider; vanguard; value guardian; advocacy
+**Distinctive function:** Service provider, vanguard, value guardian, advocacy
 
+# Chapter Leadership
 
-Chapter Leadership 
+- From mission-driven to resource-driven
+- Adopt business-sector management methods
+- Balance organizational values with business performance
+- Employee orientation & transformational leadership
+- Managerialist leadership structures
 
-from mission-driven to a resource-driven
-adopt business-sector management method 
-balance organizational values with business performance 
-employee orientation & transformational leadership 
+# Chapter Strategic Management
 
-managerialist leadership structures
+- Strategic planning — more business-like
+- Corporate management knowledge and practices
+- Centralization and professionalization
+- Managerialism
+- Organizational rationality
 
+**Strategy helps?**
 
-Chapter Strategic Management 
+- Where do strategies come from? Daily activities or import?
+- Do they contribute to legitimacy or performance? (The role of fundraising)
 
-strategic planning -- more business-like 
-corporate manaement knowledge and practices
-centralization and professionalization 
-managerialism
+# Chapter 13 Advocacy and Lobbying
 
-organizational rationality 
+Common nonprofit advocacy activities include, but are not limited to, voter registration drives, discussions with government officials, protests, creating petition letters, public awareness campaigns, testifying at legislative hearings, writing public education reports, and lobbying, among other activities.
 
-Strategy helps? 
+- **Who is the audience?**
+- Lobbying is defined as supporting the adoption or rejection of legislation, or contacting legislative officials to propose, support, or oppose legislation (IRS, 2018).
 
-Where do strategies come from? daily acitivies or import? 
+**Requirement from IRS**
 
-contribute to legitimacy or performance? (the role of fundraising) 
+- [IRS Exemption Requirements for 501(c)(3) Organizations](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations)
+- 501(c)(3): Substantial part test
+- Differences in the organizational field
+- The relationship between government funding and advocacy
+- Tactics—how; targets—whom
+- Limited engagement in strikes and demonstrations
+- Collaboration, coalition, and advocacy
+- Political redistribution
 
-Chapter 13 Advocacy and Lobbying 
+**Question:**
+- Is advocacy a good thing for nonprofits? Good for whom?
 
-Common nonprofit advocacy activities include, but are not limited to, voter registration drives, 
-discussions with government officials, protests, creating petition letters, public awareness campaigns, testifying at legislative hearings, 
-writing public education reports, and lobbying, among other activities.
-（who is the audience) 
-Lobbying is defined as supporting the adoption or rejection of legislation, or contacting legislative officials to propose, support, or oppose legislation (IRS, 2018).
+**Implication:**
+- How could advocacy studies connect with policy process studies?
+- TED Talks as a way of advocacy?
 
-Requirement from IRS 
-https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations
+# Chapter 25 Nonprofit Marketing and Branding
 
-501(c)(3): substantial part test
+Marketing is defined as "serving human wants and needs sensitively" (Kotler & Levy, 1969). The application of market theories and ideas is appropriate in the nonprofit field.
 
-difference in organizational field 
-The relationship between government funding and advocacy
+- Nonprofits need to consider two constituencies: service beneficiaries and funders; two different markets: the market for resource attraction and the market for resource allocation.
+- **Digital age:** Drucker (1954) defines marketing as the customer-centric philosophy in organizations' strategy and operations (Padanyi, 2008).
+- Marketplace (customer, competitor, and environment)
+- Market orientation
+- Commercial and nonprofit organizations
+- Beneficiaries/clients
+- Governance is by trustees or a voluntary board of directors (Chad et al., 2013).  _This is what is different from governments._
 
-tactics-how; targets-whom
-limited engagement is strikes and demonstrations 
-collaboration, coalition and advocacy 
-political redistribution 
+**Questions:**
 
-Question?
-Is advocacy is a good thing for nonprofits? Good for whom? 
+- Why is there no advertisement about nonprofits on mainstream media platforms in China?
+- Not because they are poor, but because they do not want to appear rich.
 
-Implication 
-How could advocacy studies connect with policy process studies? 
-TED talks as a way of advocacy? 
+# Chapter 34 Hybridity: Origins and Effects
 
+**Introduction:**
 
-Chapter 25 Nonprofit Marketing and Branding 
+Hybridity does not only mean nonprofits being business-like, but also businesses becoming more nonprofit-like. The boundaries between organizations become blurry.
 
-marketing is defined as "serving human wants and needs sensitively" (Kotler & Levy, 1969).
-the application of market theories and ideas are appropraite in the nonprofit field.
-nonprofits need to consider two constituencies: service beneficiaries and funders; two different markets: 
-the market for resource attraction and the market for resource allocation.
+- **Context:** Civil society — why?
+- **Incompatible elements:** What?
+- How can we connect this phenomenon with previous organization studies?
+- (Nature) Procedure evolution — (Function) Acting capacity
+- Transaction cost of management
+- **Field:** Field environment, field structure — what's the difference between field and environment?
 
-digital age 
-Drucker(1954) defines marketing as the customer-centric philosophy in organizations' strategy and operations (Padanyi 2008).
-Marketplace (customer, competitor, and environment)
-market orientation 
-commercial and nonprofit organizations 
+**Opportunities and challenges brought by hybridity**
 
-beneficiaries/clients
-Governance is by trustees or a voluntary board of directors (Chad et al. 2013).  # This is what it is different from governments. 
+**Five "W"s**
 
+**Method:**
 
-Questions
-why no adverstiment about nonprofit in mainstream media platform in China? 
-No becasue they are poor. It is becasue that they do not want to look rich. 
+- Literature review
+- The subject of research; the level of analysis
 
-Chapter 34 Hybridity: Origins and Effects 
+**Results:**
 
-Introduction 
-Hybridty does not only mean nonprofits being business-like, but also means that business organizations being more nonprofit. The boundary between
-organizations become blurry. 
-context: civil society-why? 
-incompatbile elements-what?
-How can we connect this pheonoenmon with previous organization studies?
+- Hybridity helps navigate dynamic context conditions and manage complex environments.
+- Dynamism & Complexity
+- Relation between organizational agency and field structure
+- Legitimacy (Does not ease the acquisition of legitimacy)
 
-(Nature) procedure evolution - (Function) acting capacity 
-transaction cost of management
-field: filed environment, field structure -- what's the difference between field and environment? 
+**Is hybridity a reaction or strategy?**
 
-opportunities and challenges brought by hybridity 
+**Question:**
 
-Five "W" 
+- Only 13 articles?
 
-Method
-Literature Review
-the subject of research; the level of analysis
+**Side note:**
 
+- Imagine, the surface to interact with the environment changes. How does it look? Which aspect? Different kinds of organizations. Our job is to open the black box.
+- Who is leading the organization to hybridity and why?
 
-Results
-Hybridty helps navigate dynamic context conditions and manage complex environments. 
-Dynamism  & Complexity 
-relation between organizational agency and field structure
-legitimacy （does not ease the acquistion of legitimacy) 
+# Chapter 35 New Legal Forms for Hybrid Organizations
 
-Is hyrbidity a reaction or strategy? 
+**Concepts:**
 
-Question: 
-only 13 articles? 
+- Double-bottom-line organizations: Do good & make money
+- Businesses/cooperatives
+- Hybrid organizations and transaction cost (Williamson, 1985), hybrid organizations deal with nonstandard transactions
+- Dual mission, mixed ownership, diverse funding streams
+- Social enterprise?
 
-Side note: imagine, the surface to interact with the environment changes. How does it look like? 
-which aspect? Different kinds of organizations. Our job is to open the black box. 
-who is leading the organization to hybridity and why? 
+**Facts:**
 
+- B-Lab certification
 
-Chapter 35 New Legal Forms for Hybrid Organizations 
+**Summary:**
 
-Concepts
-double-bottom-line organizations
-do good & make money 
-businesses/cooperatives
+- A normative study on the importance of legal forms for hybrid organizations
+- Priority
 
-hybrid organizations and transcation cost (Williamson, 1985), hybrid organizations deal with nonstandard transactions 
+**Questions:**
 
-dual mission, mixed ownership, diverse funding streams
+- Are we viewing hybrid organizations from the perspective of nonprofit organizations?
+- What's the business perspective on hybrid organizations?
+- Before we define hybrid organizations, we need to understand "pure" organizations.
+- Who is more interested in this legal form? Business or nonprofit?
 
-social enterprise? 
+**Implication:**
 
-
-Facts 
-B-Lab certification 
-
-summary 
-a normative study on the importance of legal forms for hybrid organizations 
-priority
-
-
-Questions
-Are we viewing hybrid organizations from the perspective of nonprofit organization? 
-What's business's perspective for hybrid organizations? 
-Before we define hybrid organizations, we need to know "pure" organizations 
-Who want more about this legal form? Business or nonprofit? 
-
-Implication
-Why the interest in business-like nonprofits?
-nonprofit/hybrid organization diffuses among states 
-
+- Why the interest in business-like nonprofits?
+- Nonprofit/hybrid organizations diffuse among states
