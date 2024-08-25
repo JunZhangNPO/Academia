@@ -1,6 +1,10 @@
 Anheier, H. K., & Toepler, S. (2020). *Nonprofit organizations: Theory, management, policy* (3rd ed.). Routledge.  
 https://www.routledge.com/Nonprofit-Organizations-Theory-Management-Policy/Anheier-Toepler/p/book/9781138625495
 
+Author 
+- https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/anheier
+- 
+
 ### Part IV: Policy and Current Developments
 
 #### Chapter 16: State-Nonprofit Relations
