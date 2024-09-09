@@ -17,4 +17,11 @@ then step by step, go to the nuances
 
 
 break down IV or DV 
+classify, if it works, in which condition? 
 based on theories but not models 
+what does the treatment mean? the link 
+Considering all elements in the paper, which do you want to highlight? who is your audience?
+
+
+what's the outlier? What happened?
+
