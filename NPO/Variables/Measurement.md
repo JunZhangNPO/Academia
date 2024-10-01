@@ -24,3 +24,5 @@ size, gender, race
 
 from binary to continous 
  Dose-Effect
+
+For survey experiment, ask real behavior. For example, do you want to donate 30% of your fee to this organization 
