@@ -3,4 +3,7 @@
   brain's pre-attentive visual processing
 
 
-  ChatGPT can help you transfer regression tabels into figures 
+  ChatGPT can help you transfer regression tabels into figures
+
+  Use fewer words
+  
