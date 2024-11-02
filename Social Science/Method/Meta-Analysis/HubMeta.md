@@ -7,3 +7,7 @@ click it: add comments, yes/no/maybe/contact
 
 filter 
 good way to use negative list 
+
+
+Zoom out to see the full screen 
+Then delet the sources you do not want 
