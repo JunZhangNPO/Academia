@@ -29,6 +29,7 @@ Scopus: Export-all
 ProQuest: save the search, export research
 ![image](https://github.com/user-attachments/assets/fdfbe2d7-06b8-4ac7-971a-ed28a0ed231d)
 (be careful about the database available and change the database when necessary) 
+The amount limit for ProQuest to export is 1000. You need to export in batches. 
 EBSCO: save it into folder, 50 results per page 
 Keep as much information as possible 
 Title: Database+date 
