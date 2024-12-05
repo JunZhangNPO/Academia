@@ -25,3 +25,10 @@
 
 9. **Test with a normal participant.**  
    - Ask a participant what they think about while answering each question to ensure clarity and relevance.
+  
+10. **Where to put the treatment**
+   - Do not place the treatment at the end of the survey, as people may lose attention.
+   - Do not place it at the beginning, as you need some questions to warm people up to the topic.
+   - While placing control variable questions after the treatment might lead to some downstream effects, these effects are likely random and could go in all directions.
+
+     
