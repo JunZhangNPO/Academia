@@ -15,3 +15,7 @@ https://usafacts.org/articles/how-many-nonprofits-are-there-in-the-us/
 https://www.statista.com/statistics/238289/us-charities-with-the-highest-total-revenue/
 
 IRS Form 990/990EZ for annual expenses report
+
+
+- National Philanthropic Trust 
+- Charitable Giving Statistics
