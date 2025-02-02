@@ -26,3 +26,11 @@ But it could be better if there is an online channel for donation, becasue not m
 ![image](https://github.com/JunZhangNPO/Academia/assets/103551488/bdad9a6e-b39d-4cc3-8696-5125eebaa125)
 https://x.com/daniel_mcdowell/status/1811116183862821128
 
+
+# 4. Good Collaboration Between Nonprofits and Businesses  
+
+- When I used Instacart to buy groceries, I received a message saying, **"Donate groceries & essentials to LA Fire Relief."**  
+- This initiative is tied to recent news, which helps build a connection by reminding people that others need essential supplies just like I do.  
+- The simplicity of the process makes it easy to take action.  
+
+![IMG_0241](https://github.com/user-attachments/assets/38cc0392-b2ca-4a9f-af7f-5d0136d3e5e3)
