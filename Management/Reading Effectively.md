@@ -13,6 +13,7 @@
 
 ### **Read for Application**
 
+- Do not read randomly, read a cluster of literature or same author or same method
 - Do not read much at one time.
 - Read with a purpose (for example, the methodology part is going to help you).
 - Read and then teach.
