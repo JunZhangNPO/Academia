@@ -1,4 +1,4 @@
-1. Organ donation poster in the Driver's Manul in New York State
+# 1. Organ donation poster in the Driver's Manul in New York State
 
 ![image](https://github.com/JunZhangNPO/Academia/assets/103551488/0dc58ac1-ea8f-4775-858c-4a8e7e143db0)
 
@@ -8,7 +8,7 @@ It is a super good way to promote organ donation.
 
 2024.05
 
-2. Dark Sky Fund Association
+# 2. Dark Sky Fund Association
 
 Cherry Springs State Park, Pennsylvania
 ![a2a7c13205b25a48dd5ec37d2bcdaa6](https://github.com/JunZhangNPO/Academia/assets/103551488/9a7267b6-d60d-4547-a0e5-f4e386c0a5df)
@@ -21,8 +21,7 @@ But it could be better if there is an online channel for donation, becasue not m
 2024.06
 
 
-
-3. No information about the organization
+# 3. No information about the organization
 ![image](https://github.com/JunZhangNPO/Academia/assets/103551488/bdad9a6e-b39d-4cc3-8696-5125eebaa125)
 https://x.com/daniel_mcdowell/status/1811116183862821128
 
@@ -34,3 +33,9 @@ https://x.com/daniel_mcdowell/status/1811116183862821128
 - The simplicity of the process makes it easy to take action.  
 
 ![IMG_0241](https://github.com/user-attachments/assets/38cc0392-b2ca-4a9f-af7f-5d0136d3e5e3)
+
+# 5. Empty Museum in the Utica City 
+- Munson Museum 
+- I was almost the only vistor
+- Where can the museum get the funding?
+- Rethink the opening hours of the museum; how to make it more accessible? Such as open after work time; make it a community center, such as some art classes
